@@ -3,4 +3,4 @@ This is my [undergradute summer research internship](https://www.erg.cuhk.edu.hk
 
 This project aims to provide a natural language based, lost-and-found system from the closed-circuit television (CCTV) at the Hong Kong International Airport.
 
-The project eventually won the 2023 Best Project Award (Top 5 of 58 undergraduate summer research internship).
+The project eventually won the Faculty of Engineering's 2023 Best Project Award (Top 5 of 58 projects).
